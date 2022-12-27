@@ -1,0 +1,27 @@
+React app contains props and States.
+Instead of for we use htmlFor and react is case sensitive.
+We can return upto one HTML element in React in this case we have div if you want to do so then you should use jsk Fragement
+Here are some major changes like instead of html class we use className KeyWord as class is reserved keyword in react 
+Things is written inside {} in jsx is countered as JavaScript
+Not rendered as HTML for safety purpose
+
+Props in react stands for properties
+props is the parameter of the function based component
+https://reactjs.org/docs/components-and-props.html
+
+Always named component with capital letter. 
+Every component has it's state
+State means state (condition,avastha)
+We are passing the props in component but not state
+we can't update state like normal variable in rjs to do that we should use updation function
+Stats It must declared inside function component
+useState hook is help us to create an state variables
+props.alert && it means that props.alert evaluate first and if is true the rest of stuff is being evaluated
+(upper syntax is not preferred by harry but preferred by the community and here alert is not the keyword it is just the value of props to be passed)
+<<<<<<< HEAD
+This happens because all the JSX will be converted to JavaScript calls
+Button onClick event need function 'Arshil' not function call 'Arshil()' so do that in onclick we use arrow function
+ - onclick(()=>{props.Arshil('Legend.')})
+=======
+This happens because all the JSX will be converted to JavaScript calls
+>>>>>>> c11a078525ac368fe7df3ef9df6264484d35d445

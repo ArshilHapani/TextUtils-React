@@ -1,0 +1,32 @@
+* {
+  overflow-x: hidden;
+}
+.Header{
+  padding: 2vh;
+  background-color: black;
+  color: #fff;
+}
+ul {
+  overflow: hidden;
+  list-style-type: none;
+}
+img {
+  height: 60vh;
+  width: 100vw;
+}
+li {
+  display: inline;
+  padding: 4vw;
+}
+.blank {
+  background-image: url(https://c4.wallpaperflare.com/wallpaper/218/264/7/reine-norway-lake-mountains-wallpaper-thumb.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: #fff;
+  padding: 4vh;
+  height: 30vh;
+  width: 100vw;
+}
+.Heading {
+  margin-left: 30vw;
+}
